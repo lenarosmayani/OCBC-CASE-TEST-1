@@ -1,7 +1,7 @@
-# Case Study :: User Access Control: Endpoint Access
+# Case Study :: User Access Control: User Data
 
 ![Technology - Spring Boot](https://img.shields.io/badge/Technology-Spring_Boot-blue)
-![Tracing Difficulty - Easy](https://img.shields.io/badge/Tracing_Difficulty-Easy-blue)
+![Tracing Difficulty - Easy](https://img.shields.io/badge/Tracing_Difficulty-Easy-green)
 ![Implementation Difficulty - Medium](https://img.shields.io/badge/Implementation_Difficulty-Medium-yellow)
 
 ## The Condition
