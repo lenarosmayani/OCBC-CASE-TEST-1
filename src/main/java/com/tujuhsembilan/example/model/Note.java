@@ -25,5 +25,6 @@ public class Note {
   private UUID id;
 
   private String content;
+  private String username;
 
 }
